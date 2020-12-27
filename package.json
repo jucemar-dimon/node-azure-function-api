@@ -1,0 +1,13 @@
+{
+  "name": "node-azure-function-api",
+  "version": "1.0",
+  "description": "creating an rest api width serverless architecture",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.3"
+  }
+}
